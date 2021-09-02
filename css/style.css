@@ -83,7 +83,7 @@
 }
 
 .s-title{
-    color: #03a9f4;
+    color: #4cbde2;
     font-family: 'Comfortaa', cursive;
 }
 
@@ -92,7 +92,7 @@
     display: block;
     width: 100px;
     height: 3px;
-    background-color: #e91d43;
+    background-color: darkcyan;
     margin: 20px auto;
     border-radius: 15px;
 }
